@@ -1,0 +1,7 @@
+{
+  "name": "TK Game Shop - MLBB Diamond Top-Up",
+  "description": "A modern and secure diamond top-up platform for Mobile Legends players in Myanmar, featuring real-time price lists and Telegram bot integration for order notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
